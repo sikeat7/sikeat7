@@ -1,7 +1,3 @@
-![GitHub Views](https://komarev.com/ghpvc/?username=sikeat7)
-
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=sikeat7" alt="api?username=sikeat7"/>
-
 # Sikeat
 
 Welcome to my GitHub repository. Here you will mostly find projects that I have worked on. Most of my recent projects are private.
